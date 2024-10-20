@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Examen Calificado 02</string>
+    <string name="button_show">Mostrar</string>
+    <string name="button_hide">Ocultar</string>
+</resources>
